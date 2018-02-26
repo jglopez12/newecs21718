@@ -1,0 +1,83 @@
+<!DOCTYPE htmml>
+<html>
+    <style>
+    .jumbotron {
+      background: linear-gradient(to right, yellow , orange);
+    }
+   h1 {
+    text-align: center;
+}
+    p {
+    text-align: center;
+    background-color: red;
+}
+    h2 {
+    background-color: green;
+}
+    .button{
+        background: linear-gradient(to right, yellow , orange);
+}
+   h3 {
+    text-align: center;
+}
+    h4 {
+        background-color: DodgerBlue;
+    }
+
+</style>
+<head>
+    <title>Joshua Lopez</title>
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+        <div class="container">
+            <a href="http://dogtime.com/dog-breeds/siberian-husky#/slide/1" class="button btn-lg" role="button">DogTime website</a>
+            <a href="http://www.animalplanet.com/breed-selector/dog-breeds/working/siberian-husky.html" class="button btn-lg" role="button">Animal Plant</a>
+            <a href="https://www.dogbreedinfo.com/siberianhusky.htm" class="button btn-lg" role="button">Dog Breeder Info Center</a>
+            </div>
+  <div class="jumbotron">
+<h1>Siberian Husky</h1>
+<h3 style="color:DodgerBlue;"><small class="font-italic"> Canis lupus familiaris</small></h3>
+</div>
+<nav class="navbar navbar-expand-sm bg-light">
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="https://jglopez12.github.io/newecs21718/HTML/practice1.html">Practice 1</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="https://jglopez12.github.io/newecs21718/tables1.html">Tabes1</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="https://jglopez12.github.io/newecs21718/HTML/FavoriteAnimal.html">Favorite Animls</a>
+    </li>
+  </ul>
+</nav>
+
+<div class="container">
+  <h2>Siberian Husky</h2>
+  <p>The Siberian Husky on watch before going out to do their job</p>            
+  <img src="https://www.jules-photographer.com/wp-content/uploads/2012/02/siberian-husky-photos-005-1200x800.jpg" class="img-thumbnail" alt="Siberian Husky" width="299" height="231"> 
+</div>
+    <div class="container">
+  <h2>Siberian Husky</h2>
+  <p>Siberian Husky gettign ready to sled the distnce they have to by their owners</p>            
+  <img src="https://i1.wp.com/windfromthenorth.com/wordpress/wp-content/uploads/2017/04/siberian-huskies-e1492005376913.jpg?resize=632%2C442" class="img-thumbnail" alt="Sledding" width="299" height="231"> 
+</div>
+<div class="container">
+  <h2>Siberian Husky at play</h2>
+  <p>Siberian Husky playing with each other and relaxing after their work is done</p>            
+  <img src="https://bamahuskies.com/wp-content/uploads/2014/07/husky-puppies-at-play.jpg" class="cimg-thumbnail" alt="Playing" width="299" height="231"> 
+</div>
+<div class="container">
+  <h4>History of the Siberian Huskies</h4>
+  <a href="#demo" class="btn btn-info" data-toggle="collapse">Siberian Husky Before the times</a>
+  <div id="demo" class="collapse">
+    Originating in Siberia, bred over 3,000 years ago by the nomadic tribe Chukchi for the purposes for sledding. With their quick speed and endurance they were abke to serve as part as the U.S. Army’s Arctic Search and Rescue Unit during World War II. They were brought into the America's at the turn of the 20th century.
+  </div>
+</div>
+</html>
