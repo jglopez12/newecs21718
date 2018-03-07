@@ -80,4 +80,35 @@
     Originating in Siberia, bred over 3,000 years ago by the nomadic tribe Chukchi for the purposes for sledding. With their quick speed and endurance they were abke to serve as part as the U.S. Army’s Arctic Search and Rescue Unit during World War II. They were brought into the America's at the turn of the 20th century.
   </div>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br>
+<div class="container-fluid">
+  <h2>The schools i attended</h2>
+  <div class="row">
+    <div class="col bg-success">Belmont Cragin</div>
+    <div class="col-6 bg-warning">Mary Lyon</div>
+    <div class="col bg-success">Lane Tech</div>
+  </div>
+</div>
+  <div class="left">
+  <h2>Belmont Cragin Early Childhood Center</h2>
+  <p>The preschool I attended when I was 5-6 years old (Their Website):<a href="http://belmontcragin.cps.edu/ecc-home.html">Belmont Cragin Early Childhood Center</a></p>            
+  <img src="http://belmontcragin.cps.edu/images/ecc-bldg.png" class="float-left" alt="Belmont Cragin" width="290" height="236"> 
+</div>
+<div class="center">
+  <h2>Mary Lyon</h2>
+  <p>The Elementary school I attended from K-8 grades (Their Website):<a href="http://marylyonschool.com/">Mary Lyon Website</a></p>            
+  <img src="http://static.panoramio.com/photos/large/29339665.jpg" class="img-thumbnail" alt="Mary Lyon" width="299" height="236"> 
+</div>
+<div class="right">
+  <h2>Lane Tech</h2>
+  <p>The high school I plan to attend from Freshman year to Senior year (Their Website): <a href="http://www.lanetech.org/">Lane Tech Website</a></p>            
+  <img src="https://c1.staticflickr.com/9/8011/7707307184_3c85eaee19_b.jpg" class="float-right" alt="Lane Tech" style="float:right" width="290" height="236"> 
+</div>
 </html>
